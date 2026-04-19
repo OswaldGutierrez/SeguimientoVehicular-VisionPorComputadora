@@ -58,4 +58,5 @@ Estudiante de Ingeniería — Universidad
 [LinkedIn](www.linkedin.com/in/oswald-david-gutierrez-1a452939a) · [GitHub]([https://github.com/tu-usuario](https://github.com/OswaldGutierrez))
 
 **Miguel Puerta**
+
 **Juan Andraus**
